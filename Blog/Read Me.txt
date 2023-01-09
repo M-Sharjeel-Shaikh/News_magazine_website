@@ -1,0 +1,30 @@
+This is User Blog/NEWS Magazine Website (Dynamic)
+Develope With : Django Frame Work
+
+Python version = 3.7
+Django version = 4
+
+
+Created by : M Sharjeel Shaikh
+
+==================== Instruction To Run Website =============
+---> 1.Download Python.
+---> 2.Pip install Django in cmd.
+---> 3.Open folder in Cmd where you kept it folder.
+---> 4.Pass Command "python manage.py runserver".
+---> 5.Open Browser and type localhost(port: 8000)
+---> 6.To Open admin panel type( "localhost:8000\admin"   )
+---> 7.Django admin panel appear and then enter username and password 
+       copy from below.
+
+==================== Admin Info (username , password) =============
+Username : admin
+Password : sharjeel
+
+==================== Custom User Info For Test (username , password) =============
+
+Username : test
+Password : test
+
+==================== Warning =============
+Note : In Setting.py DEBUg = False for production.
