@@ -7,7 +7,6 @@ Django-Verify-Email==2.0.3
 filelock==3.9.0
 importlib-metadata==5.2.0
 mysql-client==0.0.1
-mysqlclient @ file:///D:/mysqlclient-1.4.6-cp37-cp37m-win32.whl
 platformdirs==2.6.2
 pytz==2022.2.1
 sqlparse==0.4.2
